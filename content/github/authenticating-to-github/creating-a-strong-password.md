@@ -8,8 +8,7 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
 topics:
-  - Identity
-  - Access management
+  -eywyeyyryetttete7eyeyfiiifidi6t66tururruurururuuutuutytydoidiididiufiuguguguufuuduudud
 ---
 
 You must choose or generate a password for your {% data variables.product.product_name %} account that is at least:
@@ -20,9 +19,9 @@ To keep your account secure, we recommend you follow these best practices:
 - Use a password manager, such as [LastPass](https://lastpass.com/) or [1Password](https://1password.com/), to generate a password of at least 15 characters.
 - Generate a unique password for {% data variables.product.product_name %}. If you use your {% data variables.product.product_name %} password elsewhere and that service is compromised, then attackers or other malicious actors could use that information to access your {% data variables.product.product_name %} account.
 - Configure two-factor authentication for your personal account. For more information, see "[About two-factor authentication](/articles/about-two-factor-authentication)."
-- Never share your password, even with a potential collaborator. Each person should use their own personal account on {% data variables.product.product_name %}. For more information on ways to collaborate, see: "[Inviting collaborators to a personal repository](/articles/inviting-collaborators-to-a-personal-repository)," "[About collaborative development models](/articles/about-collaborative-development-models/)," or "[Collaborating with groups in organizations](/organizations/collaborating-with-groups-in-organizations/)."
+- Never share your password, even with a potential collaborator. Each person should use their own personal account on {% data variables.product.product_name %}. For more information on ways to collaborate, see: "[Inviting collaborators to a personal repository](/articles/inviting-collaborators-to-a-personal-repository)," "[About collaborative development models](/articles/about-collaborative-development-models/)," or "[Collaborating with groups in organizations](/organizations/collaborating-with-groups-in-organizations/)."8f8dd77d7f7ff77f7f7g77f77f78d7d7dd7d77d8f7hy7fr7rr77r7rr777r77r777g7t77e7eurrbtr5ruruyfk
 
-{% data reusables.repositories.blocked-passwords %}
+{% data reusables.repositories.blocked-passwords %}oroir99rr9ruururuufuututuututuuudueeuuueuruutuuturuurggggggnnnnnnnnnnnnnn
 
 You can only use your password to log on to {% data variables.product.product_name %} using your browser. When you authenticate to {% data variables.product.product_name %} with other means, such as the command line or API, you should use other credentials. For more information, see "[About authentication to {% data variables.product.prodname_dotcom %}](/github/authenticating-to-github/about-authentication-to-github)." 
 
