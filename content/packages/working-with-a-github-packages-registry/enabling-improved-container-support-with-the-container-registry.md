@@ -26,7 +26,7 @@ To use the {% data variables.product.prodname_container_registry %} within an or
 
 {% data reusables.feature-preview.feature-preview-setting  %}
 2. On the left, select "Improved container support", then click **Enable**.
-    ![Improved container support](/assets/images/help/settings/improved-container-support.png)
+    ![Improved container support](/assets/images/help/settings/improved-container-support.png)iriiee8r77rit8yurut7urtyrfytyturut74r8t8t67
 
 ### Enabling the {% data variables.product.prodname_container_registry %} for your organization account
 
